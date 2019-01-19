@@ -28,12 +28,13 @@
 		<!-- 基础 – 数据存储篇 -->
 		<!-- Spring Boot 整合 Mybatis 的完整 Web 案例 -->
 		<module>springboot-mybatis</module>
+		<module>spring-boot-mybatis</module>
 		<!-- Spring Boot 整合 Mybatis Annotation 注解案例 -->
 		<module>springboot-mybatis-annotation</module>
 		<!-- Spring Boot 整合 Mybatis 实现 Druid 多数据源配置 -->
 		<module>springboot-mybatis-mutil-datasource</module>
 
-		<!-- 基础 – 数据缓存篇 -->
+		<!-- 基础 – 数据缓spring-boot-starter-web存篇 -->
 		<!-- Spring Boot 整合 Redis 实现缓存 -->
 		<module>springboot-mybatis-redis</module>
 		<!-- Spring Boot 注解实现整合 Redis 实现缓存 -->
@@ -47,20 +48,64 @@
 		<!-- Spring Boot 整合 Dubbo/ZooKeeper 详解 SOA 案例 -->
 		<module>springboot-dubbo-server</module>
 		<module>springboot-dubbo-client</module>
+		<module>springboot-dubbo</module>
+		<module>springboot-zookeeper-console</module>
 		<!-- Spring Boot 整合 Elasticsearch -->
 		<module>springboot-elasticsearch</module>
 
 		<!-- Spring Data ES 篇 -->
-		<module>spring-data-elasticsearch-crud</module>
-		<module>spring-data-elasticsearch-query</module>
-
+		<module>springdata-elasticsearch-crud</module>
+		<module>springdata-elasticsearch-query</module>
+		<module>spring-boot-elasticsearch</module>
+		<module>springboot-elasticsearch-demo</module>
 		<!-- 第二章快速入门案例 -->
 		<module>chapter-2-spring-boot-quick-start</module>
 		<!-- 第四章表单校验案例 -->
 		<module>chapter-4-spring-boot-validating-form-input</module>
 		<!-- 第五章数据分页排序案例 -->
 		<module>chapter-5-spring-boot-paging-sorting</module>
-
-	</modules>
+		<!-- 第六章 redis缓存-->
+        <module>springboot-Cache</module>
+		<module>springboot-redis</module>
+		<!-- 第七章 guava缓存-->
+		<module>springboot-Cache2</module>
+		<!-- 第八章 springboot-jpa-->
+		<module>springboot-jpa</module>
+		<!-- 第九章 springboot-消息队列-->
+		<module>springboot-kafka-consumer</module>
+		<module>springboot-kafka-producer</module>
+		<module>springboot-kafka</module>
+		<module>springboot-rabbitmq</module>
+		<module>springboot-rabbitmq-ack</module>
+		<module>springboot-rocketmq</module>
+		<!-- 第十章 springboot-定时任务-->
+		<module>springboot-quartz</module>
+		<!-- 第十一章 springboot-shiro-->
+		<module>springboot-shiro</module>
+		<!-- 第十二章 springboot-微服务-->
+		<module>springboot-springCloud</module>
+		<!-- 第十三章 springboot-SpringSecurity-->
+		<module>springboot-SpringSecurity0</module>
+		<module>springboot-SpringSecurity1</module>
+		<module>springboot-SpringSecurity2</module>
+		<module>springboot-SpringSecurity3</module>
+		<module>springboot-SpringSecurity4</module>
+		<!-- 第十四章 springboot-接口文档-->
+		<module>springboot-swagger-ui</module>
+		<module>springboot-swagger</module>
+		<!-- 第十五章 springboot-响应式编程-->
+		<module>springboot-webflux</module>
+		<!-- 第十六章 springboot-springWebSocket-->
+		<module>springWebSocket</module>
+		<!-- 第十七章 springboot-springWebSocket-->
+		<module>springboot-limit</module>
+		<!-- 第十八章 springboot-日志-->
+		<module>springboot-logback</module>
+		<!-- 第十九章 springboot-mongodb-->
+		<module>springboot-mongodb</module>
+		<!-- 第二十章 springboot-搜索引擎-->
+		<module>springboot-lucene-demo</module>
+		<module>springboot-solr-cloud</module>
+    </modules>
 
 </project>

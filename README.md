@@ -25,13 +25,6 @@ Spring For All 社区 ⑫ 498098401 <br>
 
 博主微信：139-5868-6678
 
-## 作者与学习乐园
-源码地址：我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")、[OSCGit地址](https://git.oschina.net/jeff1993/springboot-learning-example "OSCGit")<br>
-作者：[泥瓦匠BYSocket](http://www.bysocket.com/ "泥瓦匠BYSocket")<br>
-关注微信公众号【泥瓦匠BYSokcet】，及时得到技术文章推送<br>
-![公众号](http://www.bysocket.com/wp-content/uploads/2017/01/qrcode_for_gh_cd421e7eb7d6_430.jpg)
-
-
 ## 一、项目结构
 「Spring Boot 那些事」：[传送门](http://www.bysocket.com/?page_id=1639 "Spring Boot 那些事")<br>
 
@@ -135,3 +128,117 @@ http://localhost:8080/api/city?cityName=温岭市
 
 推荐
  [《Spring Boot教程与Spring Cloud教程》](https://git.oschina.net/didispace/SpringBoot-Learning "Spring Boot教程与Spring Cloud教程")<br>
+
+
+## springboot-SpringSecurity0  
+
+包含两部分代码：
+
+* 第一是  博客 springboot+mybatis＋SpringSecurity 实现用户角色数据库管理   地址：http://blog.csdn.net/u012373815/article/details/54632176
+
+* 第二是  博客 springBoot+springSecurity验证密码MD5加密  地址：http://blog.csdn.net/u012373815/article/details/54927070
+
+## springboot-SpringSecurity1  
+
+*  博客 springBoot+springSecurity 数据库动态管理用户、角色、权限（二）   地址：http://blog.csdn.net/u012373815/article/details/54633046
+
+## springboot-SpringSecurity2
+
+*  博客  springboot+security restful权限控制官方推荐（五）   地址：http://blog.csdn.net/u012373815/article/details/59749385
+
+## springboot-SpringSecurity3
+
+*  博客  springBoot+springSecurity 动态管理Restful风格权限（三） 地址：http://blog.csdn.net/u012373815/article/details/55225079  
+
+## springboot-SpringSecurity4
+* 实战，项目中正在用
+
+## springboot-WebSocket  
+
+包含三部分代码,三部分代码有交合:
+
+* 第一是  博客 spring boot ＋WebSocket 广播式（一）地址：http://blog.csdn.net/u012373815/article/details/54375195  中所示代码
+
+* 第二是  博客 spring boot ＋WebSocket 广播式（二）地址：http://blog.csdn.net/u012373815/article/details/54377937   中所示代码
+ 
+* 第三是  博客 spring boot ＋WebSocket（三） 点对点式 地址： http://blog.csdn.net/u012373815/article/details/54380476  中所示代码
+
+
+
+## springboot-Cache
+
+包含两部分代码：
+
+* 第一部分是 博客 springboot的缓存技术 地址： http://blog.csdn.net/u012373815/article/details/54564076  
+
+* 第二部分是 博客 springboot缓存篇（二）－redis 做缓存 地址：http://blog.csdn.net/u012373815/article/details/54572687
+
+## springboot-Cache2
+
+* 是  博客  springboot缓存 之 GuavaCacheManager   地址：http://blog.csdn.net/u012373815/article/details/60468033
+
+## springboot-shiro
+
+* 是博客  springboot集成shiro 实现权限控制   地址：http://blog.csdn.net/u012373815/article/details/57532292
+
+## springboot-swagger-ui
+* 博客 spring boot ＋Swagger-ui 自动生成API文档 地址： https://blog.csdn.net/u012373815/article/details/82685962
+
+
+##未完待续。。。
+
+# Spring Boot 学习教程，示例代码
+
+**spring-boot-limit**
+[	Spring Boot 中使用 分布式应用限流实践](http://www.ymq.io/2018/08/16/redis-lua/)
+ 
+**spring-boot-mongodb**
+[Spring Boot 中使用 MongoDB 增删改查](http://www.ymq.io/2018/02/05/spring-boot-mongodb-example/)
+
+**spring-boot-rocketmq**
+[Spring Boot 中使用 RocketMQ](http://www.ymq.io/2018/02/02/spring-boot-rocketmq-example/)
+
+**spring-boot-redis**
+[Spring Boot 中使用 Redis](http://www.ymq.io/2017/10/16/redis-jedis-spring-boot-example/)
+
+**spring-boot-rabbitmq**
+[Spring Boot 中使用 RabbitMQ](http://www.ymq.io/2017/10/26/rabbitmq-spring-boot-example/)
+
+**spring-boot-kafka**
+[Spring Boot 中使用 kafka](http://www.ymq.io/2017/10/17/kafka-spring-boot-example/)
+
+**spring-boot-solr-cloud**
+[Spring Boot 中使用 SolrCloud](http://www.ymq.io/2017/10/18/solr-cloud-spring-boot-example/)
+
+**spring-boot-mybatis**
+[Spring Boot 中使用 MyBatis 整合 Druid 多数据源](http://www.ymq.io/2017/10/20/mybatis-spring-boot-example/)
+
+**spring-boot-dubbo**
+[Spring Boot 中使用 Dubbo 详解](http://www.ymq.io/2017/10/27/dubbo-spring-boot-example/)
+
+**spring-boot-swagger**
+[Spring Boot 中使用 swagger  笔记未更新 ]()
+
+**spring-boot-logback**
+[Spring Boot 中使用 logback  配置 ](http://www.ymq.io/2017/10/30/spring-boot-logback-example/)
+
+**spring-boot-elasticsearch**
+[Spring Boot 中使用 elasticsearch  笔记未更新 ]()
+
+**spring-boot-elasticsearch-demo**
+[Spring Boot 中使用 Java API 调用 Elasticsearch](http://www.ymq.io/2017/11/06/ElasticSearch-example/)
+
+**spring-boot-lucene-demo**
+[Spring Boot 中使用 Java API 调用 lucene](http://www.ymq.io/2017/11/06/lucene-example/)
+
+# Contact
+
+ - 作者：鹏磊  
+ - 出处：[http://www.ymq.io](http://www.ymq.io)  
+ - Email：[admin@souyunku.com](admin@souyunku.com)  
+ - GitHub：[https://github.com/souyunku](https://github.com/souyunku)  
+ - Segment Fault：[https://segmentfault.com/u/souyunku](https://segmentfault.com/u/souyunku)  
+ - 版权归作者所有，转载请注明出处
+ - Wechat：关注公众号，搜云库技术团队，专注于开发技术的研究与知识分享
+ 
+![关注公众号-搜云库](http://www.ymq.io/images/souyunku.png "搜云库技术团队")
