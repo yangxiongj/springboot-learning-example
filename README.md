@@ -10,21 +10,6 @@ https://github.com/JeffLi1993/springcloud-learning-example
 
 看看我们超强的群众基础，欢迎有兴趣的朋友加入QQ群分享与交流：
 
-Spring For All 社区 ① 365234583（满）<br>
-Spring For All 社区 ② 123013854（满）<br>
-Spring For All 社区 ③ 290714704（满）<br>
-Spring For All 社区 ④ 112133511（满）<br>
-Spring For All 社区 ⑤ 157525002（满）<br>
-Spring For All 社区 ⑥ 564840207<br>
-Spring For All 社区 ⑦ 470962790（满）<br>
-Spring For All 社区 ⑧ 613456104（满）<br>
-Spring For All 社区 ⑨ 534583667<br>
-Spring For All 社区 ⑩ 210742970 （满）<br>
-Spring For All 社区 ⑪ 517395240 <br>
-Spring For All 社区 ⑫ 498098401 <br>
-
-博主微信：139-5868-6678
-
 ## 一、项目结构
 「Spring Boot 那些事」：[传送门](http://www.bysocket.com/?page_id=1639 "Spring Boot 那些事")<br>
 
